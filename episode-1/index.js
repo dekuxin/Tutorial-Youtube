@@ -12,4 +12,4 @@ client.on('message', async message => {
 
 
 //
-client.login("NzQxOTQ5MzQzODUwMDM3MjQ4.Xy_ALA.AO8YMlzhsX03C_2HJn6W8ED7tgg")
+client.login("VOTRE_TOKEN")
